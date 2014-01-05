@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ServerCommunicator</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Send Message</string>
+    <string name="send_message">Enter message to send</string>
+    <string name="received_messages">Received messages</string>
+
+</resources>
